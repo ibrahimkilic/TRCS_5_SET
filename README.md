@@ -7,3 +7,9 @@ Orjinal TRCS_5_SET veri setinin nohut tanelerini içerecek şekilde kırpılmı�
 
 
 Veri Seti : https://drive.google.com/drive/folders/1UvAfWbRwziZipjD19wZE6QgW0hPGyjoK?usp=drive_link
+
+
+Atıf için; 
+
+Kılıç, İ., & Yalçın, N. (2024). Transfer Öğrenme Teknikleri Kullanarak Nohut Çeşidi Sınıflandırma. Karaelmas Fen Ve Mühendislik Dergisi, 14(1), 48-58.
+https://dergipark.org.tr/tr/pub/karaelmasfen/issue/84326/1427715
