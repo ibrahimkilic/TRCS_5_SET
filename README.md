@@ -4,7 +4,7 @@ Bu veri seti [Dr. Nesibe YALÇIN](https://avesis.erciyes.edu.tr/nesibeyalcin) da
 
 Orjinal TRCS_5_SET veri setinin nohut tanelerini içerecek şekilde kırpılmış halidir. Orjinal hali istenilmesi halinde ibrahimkilic85@gmail.com adresi aracılığıyla talep edilebilir.
 
-Veri Seti : https://drive.google.com/drive/folders/1UvAfWbRwziZipjD19wZE6QgW0hPGyjoK?usp=drive_link
+Veri Seti : [ https://drive.google.com/drive/folders/1UvAfWbRwziZipjD19wZE6QgW0hPGyjoK?usp=drive_link](https://drive.google.com/drive/folders/1UvAfWbRwziZipjD19wZE6QgW0hPGyjoK?usp=drive_link)
 
 Atıf için; 
 
