@@ -1,7 +1,7 @@
 # TRCS_5_SET
 
-Bu veri seti [Dr. Nesibe YALÇIN] (https://avesis.erciyes.edu.tr/nesibeyalcin) danışmanlığında İbrahim KILIÇ tarafından oluşturulmuştur. 5 nohut çeşidi(aksu, aslanbey, çiftçi, nihatbey, sarı98) içermektedir. İçerisinde 1500 görüntü bulunmaktadır. Görüntülerin elde edildiği nohut tohumu numuneleri T.C. Tarım ve Orman Bakanlığı'na bağlı araştırma enstitülerinden temin edilmiştir.
-
+Bu veri seti Dr. Nesibe YALÇIN danışmanlığında İbrahim KILIÇ tarafından oluşturulmuştur. 5 nohut çeşidi(aksu, aslanbey, çiftçi, nihatbey, sarı98) içermektedir. İçerisinde 1500 görüntü bulunmaktadır. Görüntülerin elde edildiği nohut tohumu numuneleri T.C. Tarım ve Orman Bakanlığı'na bağlı araştırma enstitülerinden temin edilmiştir.
+This site was built using [GitHub Pages](https://pages.github.com/).
 Orjinal TRCS_5_SET veri setinin nohut tanelerini içerecek şekilde kırpılmış halidir. Orjinal hali istenilmesi halinde ibrahimkilic85@gmail.com adresi aracılığıyla talep edilebilir.
 
 Veri Seti : https://drive.google.com/drive/folders/1UvAfWbRwziZipjD19wZE6QgW0hPGyjoK?usp=drive_link
